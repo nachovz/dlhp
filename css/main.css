@@ -303,3 +303,23 @@ textarea {
 html{
     background: #424242;
 }
+
+.main-container{
+    margin:auto;
+    width: 1024px;
+    height:700px; 
+    background: no-repeat url("../img/Pagina-en-construccion.png");
+    background-position-y: -30px;
+    overflow: hidden;
+    text-align: center;
+}
+
+.text-container{
+    margin: 370px auto;
+    height: 200px;
+    width: 65%;
+    font-family: Helvetica Neue;
+    font-size: 1.5em;
+    line-height: 2.5em;
+    font-weight: 100;
+}
